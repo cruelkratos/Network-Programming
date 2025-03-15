@@ -1,6 +1,6 @@
 # Network Programming
 
-An educational repository for learning and exploring network programming concepts through practical implementations.
+An educational repository for learning and exploring network programming concepts through practical implementations (LLM generated ahh readme, ts basic networking pmo icl, so my ahh tried to make some shi)
 
 ## Overview
 
