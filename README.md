@@ -36,7 +36,7 @@ A basic HTTP server that allows browsing and downloading files from the host dir
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/network-programming.git
+   git clone https://github.com/cruelkratos/network-programming.git
    cd network-programming
    ```
 
